@@ -7,6 +7,7 @@ namespace WebApiDemo.Controllers
     [ApiController]
     public class DemoController : ControllerBase
     {
+
         // GET: api/Demo
         [HttpGet]
         public string GetInfo()

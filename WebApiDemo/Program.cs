@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using WebApiDemo.Data;
+
 namespace WebApiDemo
 {
     public class Program
@@ -12,6 +15,8 @@ namespace WebApiDemo
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddDbContext<ContactsAPIDbContext>(options => options.UseInMemoryDatabase("DemoApiDB"));
 
             var app = builder.Build();
 

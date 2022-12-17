@@ -25,3 +25,14 @@ E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\obj\Debug\net6.0\refint\We
 E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\obj\Debug\net6.0\WebApiDemo.pdb
 E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\obj\Debug\net6.0\WebApiDemo.genruntimeconfig.cache
 E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\obj\Debug\net6.0\ref\WebApiDemo.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
