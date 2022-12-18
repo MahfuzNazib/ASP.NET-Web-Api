@@ -36,3 +36,46 @@ E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft
 E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 E:\Learning Projects\ASP.NET\WebApiDemoApp\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\appsettings.Development.json
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\appsettings.json
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\WebApiDemo.exe
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\WebApiDemo.deps.json
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\WebApiDemo.runtimeconfig.json
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\WebApiDemo.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\WebApiDemo.pdb
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.csproj.AssemblyReference.cache
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.AssemblyInfoInputs.cache
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.AssemblyInfo.cs
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.csproj.CoreCompileInputs.cache
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\staticwebassets\msbuild.WebApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiDemo.props
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiDemo.props
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiDemo.props
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\staticwebassets.build.json
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\staticwebassets.development.json
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\scopedcss\bundle\WebApiDemo.styles.css
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.csproj.CopyComplete
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\refint\WebApiDemo.dll
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.pdb
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\WebApiDemo.genruntimeconfig.cache
+E:\ASP.NET\ASP.NET-Web-Api\WebApiDemo\obj\Debug\net6.0\ref\WebApiDemo.dll

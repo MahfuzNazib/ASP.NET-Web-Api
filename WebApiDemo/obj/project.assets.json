@@ -805,19 +805,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nazib\\.nuget\\packages\\": {}
+    "C:\\Users\\Nazib.m\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learning Projects\\ASP.NET\\WebApiDemoApp\\WebApiDemo\\WebApiDemo.csproj",
+      "projectUniqueName": "E:\\ASP.NET\\ASP.NET-Web-Api\\WebApiDemo\\WebApiDemo.csproj",
       "projectName": "WebApiDemo",
-      "projectPath": "E:\\Learning Projects\\ASP.NET\\WebApiDemoApp\\WebApiDemo\\WebApiDemo.csproj",
-      "packagesPath": "C:\\Users\\nazib\\.nuget\\packages\\",
-      "outputPath": "E:\\Learning Projects\\ASP.NET\\WebApiDemoApp\\WebApiDemo\\obj\\",
+      "projectPath": "E:\\ASP.NET\\ASP.NET-Web-Api\\WebApiDemo\\WebApiDemo.csproj",
+      "packagesPath": "C:\\Users\\Nazib.m\\.nuget\\packages\\",
+      "outputPath": "E:\\ASP.NET\\ASP.NET-Web-Api\\WebApiDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nazib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nazib.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -871,7 +871,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,7 +5,7 @@ using WebApiDemo.Models;
 
 namespace WebApiDemo.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
 
     public class ContactsController : ControllerBase
